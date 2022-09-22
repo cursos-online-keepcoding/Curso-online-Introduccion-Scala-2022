@@ -17,6 +17,11 @@ Código y worksheets de las sesiones a partir del capítulo 4
 * Sealed Traits: [sealed_traits.sc](src/main/scala/com/keepcoding/scala/capitulo4/sealed_traits.sc)
 * Sealed Traits exercise: [ejercicio_sealed_traits.sc](src/main/scala/com/keepcoding/scala/capitulo4/ejercicio_sealed_traits.sc)
 
+### Capitulo 4 Ejercicios
+* Answers: [Answers.scala](src/main/scala/com/keepcoding/scala/capitulo4/excersises/Answers.scala)
+* BookApply: [BookApply.scala](src/main/scala/com/keepcoding/scala/capitulo4/excersises/BookApply.scala)
+* Robots: [Robots.scala](src/main/scala/com/keepcoding/scala/capitulo4/excersises/Robots.scala)
+
 ## Capítulo 5: Datos Inmutables y estructuras
 * Tuplas: [tuples.sc](src/main/scala/com/keepcoding/scala/capitulo5/tuples.sc)
 * Case Classes: [case_classes.sc](src/main/scala/com/keepcoding/scala/capitulo5/case_classes.sc)
@@ -30,6 +35,13 @@ Código y worksheets de las sesiones a partir del capítulo 4
 * Either: [either.sc](src/main/scala/com/keepcoding/scala/capitulo5/either.sc)
 * Either: map flatMap: [either_map_flatmap.sc](src/main/scala/com/keepcoding/scala/capitulo5/either_map_flatmap.sc)
 * Errors with Try: [errors_with_try.sc](src/main/scala/com/keepcoding/scala/capitulo5/errors_with_try.sc)
+
+### Capitulo 5 Ejercicios
+* Anonimous Functions: [AnonimousFunctions.scala](src/main/scala/com/keepcoding/scala/capitulo5/excersises/AnonimousFunctions.scala)
+* Generic Wrapper: [GenericWrapper.scala](src/main/scala/com/keepcoding/scala/capitulo5/excersises/GenericWrapper.scala)
+* High Order Functions: [Robots.scala](src/main/scala/com/keepcoding/scala/capitulo5/excersises/HighOrderFunctions.scala)
+
+
 
 ## Capítulo 6: Colecciones en Scala
 * Creación de listas: [lists.sc](src/main/scala/com/keepcoding/scala/capitulo6/lists.sc)
