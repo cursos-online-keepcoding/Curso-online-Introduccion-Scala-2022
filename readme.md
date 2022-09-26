@@ -18,9 +18,9 @@ Código y worksheets de las sesiones a partir del capítulo 4
 * Sealed Traits exercise: [ejercicio_sealed_traits.sc](src/main/scala/com/keepcoding/scala/capitulo4/ejercicio_sealed_traits.sc)
 
 ### Capitulo 4 Ejercicios
-* Answers: [Answers.scala](src/main/scala/com/keepcoding/scala/capitulo4/excersises/Answers.scala)
-* BookApply: [BookApply.scala](src/main/scala/com/keepcoding/scala/capitulo4/excersises/BookApply.scala)
-* Robots: [Robots.scala](src/main/scala/com/keepcoding/scala/capitulo4/excersises/Robots.scala)
+* Answers: [Answers.scala](src/main/scala/com/keepcoding/scala/capitulo4/exercises/Answers.scala)
+* BookApply: [BookApply.scala](src/main/scala/com/keepcoding/scala/capitulo4/exercises/BookApply.scala)
+* Robots: [Robots.scala](src/main/scala/com/keepcoding/scala/capitulo4/exercises/Robots.scala)
 
 ## Capítulo 5: Datos Inmutables y estructuras
 * Tuplas: [tuples.sc](src/main/scala/com/keepcoding/scala/capitulo5/tuples.sc)
@@ -37,10 +37,11 @@ Código y worksheets de las sesiones a partir del capítulo 4
 * Errors with Try: [errors_with_try.sc](src/main/scala/com/keepcoding/scala/capitulo5/errors_with_try.sc)
 
 ### Capitulo 5 Ejercicios
-* Anonimous Functions: [AnonimousFunctions.scala](src/main/scala/com/keepcoding/scala/capitulo5/excersises/AnonimousFunctions.scala)
-* Generic Wrapper: [GenericWrapper.scala](src/main/scala/com/keepcoding/scala/capitulo5/excersises/GenericWrapper.scala)
-* High Order Functions: [Robots.scala](src/main/scala/com/keepcoding/scala/capitulo5/excersises/HighOrderFunctions.scala)
-
+* Anonimous Functions: [AnonimousFunctions.scala](src/main/scala/com/keepcoding/scala/capitulo5/exercises/AnonimousFunctions.scala)
+* High Order Functions: [HighOrderFunctions.scala](src/main/scala/com/keepcoding/scala/capitulo5/exercises/HighOrderFunctions.scala)
+* Generic Wrapper: [GenericWrapper.scala](src/main/scala/com/keepcoding/scala/capitulo5/exercises/GenericWrapper.scala)
+* Option Saludos: [OptionSaludos.scala](src/main/scala/com/keepcoding/scala/capitulo5/exercises/OptionSaludos.scala)
+* Option Containing Strings: [OptionContainString.scala](src/main/scala/com/keepcoding/scala/capitulo5/exercises/OptionContainString.scala)
 
 
 ## Capítulo 6: Colecciones en Scala
@@ -55,7 +56,14 @@ Código y worksheets de las sesiones a partir del capítulo 4
 * Map: map, flatMap y for-comprehension: [maps_map_flatmap_for.sc](src/main/scala/com/keepcoding/scala/capitulo6/maps_map_flatmap_for.sc)
 * Scala/Java conversions: [collections_conversions.sc](src/main/scala/com/keepcoding/scala/capitulo6/collections_conversions.sc)
 
-## Capítulo 7: 
+### Capitulo 6 Ejercicios
+* Minimo de una lista: [ListMinimum.scala](src/main/scala/com/keepcoding/scala/capitulo6/exercises/ListMinimum.scala)
+* Multiplicacion cruzada: [CrossMultiplier.scala](src/main/scala/com/keepcoding/scala/capitulo6/exercises/CrossMultiplier.scala)
+* Contar Chars: [CharsCount.scala](src/main/scala/com/keepcoding/scala/capitulo6/exercises/CharsCount.scala)
+* Contar Chars de un fichero: [FileCountChars.scala](src/main/scala/com/keepcoding/scala/capitulo6/exercises/FileCountChars.scala)
+
+
+## Capítulo 7: Futuros e implicitos
 * Introduccion Futuros: [futures.sc](src/main/scala/com/keepcoding/scala/capitulo7/futures.sc)
 * Futuros funcionales: [FuturesFunctional.scala](src/main/scala/com/keepcoding/scala/capitulo7/FuturesFunctional.scala)
 * Implicitos: [Implicits.scala](src/main/scala/com/keepcoding/scala/capitulo7/Implicits.scala)
